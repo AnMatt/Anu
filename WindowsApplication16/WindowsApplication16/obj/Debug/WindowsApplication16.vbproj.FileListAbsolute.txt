@@ -1,0 +1,11 @@
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbprojResolveAssemblyReference.cache
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+c:\users\anupa\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
